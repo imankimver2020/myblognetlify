@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: This is my first blog
-date: 2020-11-07T15:55:10.684Z
+title: This is my first blog V2
+date: 2020-11-10T15:55:10.684Z
 thumbnail: /images/uploads/american_journey.jpg
 rating: 4
 ---
